@@ -1,0 +1,5 @@
+{
+  "name": "Latexify.ai",
+  "description": "Convert PDFs with diagrams and circuits into clean LaTeX code. Features simulated cloud storage integration for image handling.",
+  "requestFramePermissions": []
+}
